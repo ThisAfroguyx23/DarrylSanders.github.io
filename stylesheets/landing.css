@@ -96,16 +96,10 @@ footer{
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
 } 
-
 .body{
-    background-color:#EEEDEB;
-    color:#000000;
-   border-radius:10px;
-   
-}
-body{
-    Font:;
-    background-color:#46074C;
+    background-color:#46074C; 
+    border-radius:10px;
+    color:black;
 }
 
 
