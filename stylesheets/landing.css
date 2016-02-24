@@ -96,10 +96,17 @@ footer{
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
 } 
+
 .body{
-    background-color:#46074C; 
+    background-color:#EEEDEB;
+    color:#000000;
+   border-radius:10px;
+   
+}
+body{
     border-radius:10px;
-    color:black;
+    background-color:#46074C;
+    font-family: 'Indie Flower', cursive;
 }
 
 
